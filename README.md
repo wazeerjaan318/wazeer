@@ -1,2 +1,0 @@
-# wazeer
-assignment 1
